@@ -10,6 +10,11 @@ public class RestAssuredTest {
 		System.out.println("RestOne");
 		System.out.println("RestGithubOne");
 		System.out.println("RestGithubTwo");
+		System.out.println("RestGithubThree");
+		System.out.println("RestGithubFour");
+		System.out.println("RestGithubFive");
+		System.out.println("RestGithubSix");
+		System.out.println("RestGithubSeven");
 	}
 	
 	@Test
