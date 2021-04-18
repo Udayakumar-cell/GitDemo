@@ -8,6 +8,8 @@ public class RestAssuredTest {
 	public void RestOne()
 	{
 		System.out.println("RestOne");
+		System.out.println("RestGithubOne");
+		System.out.println("RestGithubTwo");
 	}
 	
 	@Test
