@@ -22,5 +22,9 @@ public class RestAssuredTest {
 	{
 		System.out.println("RestTwo");
 	}
-
+	@Test
+	public void RestThree()
+	{
+		System.out.println("RestTwo");
+	}
 }
