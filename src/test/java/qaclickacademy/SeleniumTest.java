@@ -19,5 +19,10 @@ public class SeleniumTest {
 	{
 		System.out.println("seleniumtwo");
 	}
+	@Test
+	public void seleniumfour()
+	{
+		System.out.println("seleniumtwo");
+	}
 
 }
